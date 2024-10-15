@@ -1,0 +1,6 @@
+WKT,nid,parent_nid,name,serial,type,latitude,longitude,status
+"POINT (110.36949 -7.79558)",1.0,0.0,Kota Yogyakarta,1.0,Kota,-7.795580,110.369490,active
+"POINT (110.355377 -7.715299)",2.0,0.0,Kabupaten Sleman,2.0,Kabupaten,-7.715299,110.355377,active
+"POINT (110.32816 -7.888902)",3.0,0.0,Kabupaten Bantul,3.0,Kabupaten,-7.888902,110.328160,active
+"POINT (110.164048 -7.826674)",4.0,0.0,Kabupaten Kulon Progo,4.0,Kabupaten,-7.826674,110.164048,active
+"POINT (110.618446 -7.9635)",5.0,0.0,Kabupaten Gunungkidul,5.0,Kabupaten,-7.963500,110.618446,active

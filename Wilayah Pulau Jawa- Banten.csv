@@ -1,0 +1,9 @@
+WKT,nid,parent_nid,name,serial,type,latitude,longitude,status
+"POINT (106.163974 -6.110366)",1.0,0.0,Kota Serang,1.0,Kota,-6.110366,106.163974,active
+"POINT (106.016773 -6.002998)",2.0,0.0,Kota Cilegon,2.0,Kota,-6.002998,106.016773,active
+"POINT (106.631889 -6.178306)",3.0,0.0,Kota Tangerang,3.0,Kota,-6.178306,106.631889,active
+"POINT (106.717466 -6.288618)",4.0,0.0,Kota Tangerang Selatan,4.0,Kota,-6.288618,106.717466,active
+"POINT (106.3969 -6.11932)",5.0,0.0,Kabupaten Serang,5.0,Kabupaten,-6.119320,106.396900,active
+"POINT (106.106644 -6.308865)",6.0,0.0,Kabupaten Pandeglang,6.0,Kabupaten,-6.308865,106.106644,active
+"POINT (106.252214 -6.56499)",7.0,0.0,Kabupaten Lebak,7.0,Kabupaten,-6.564990,106.252214,active
+"POINT (106.51189 -6.234997)",8.0,0.0,Kabupaten Tangerang,8.0,Kabupaten,-6.234997,106.511890,active

@@ -1,0 +1,27 @@
+WKT,nid,parent_nid,name,serial,type,latitude,longitude,status
+"POINT (107.60981 -6.914744)",1.0,0.0,Bandung,1.0,Kota,-6.914744,107.609810,active
+"POINT (106.816635 -6.595038)",2.0,0.0,Bogor,2.0,Kota,-6.595038,106.816635,active
+"POINT (107.00329 -6.23827)",3.0,0.0,Bekasi,3.0,Kota,-6.238270,107.003290,active
+"POINT (106.794243 -6.402484)",4.0,0.0,Depok,4.0,Kota,-6.402484,106.794243,active
+"POINT (107.5425 -6.8722)",5.0,0.0,Cimahi,5.0,Kota,-6.872200,107.542500,active
+"POINT (106.926949 -6.918467)",6.0,0.0,Sukabumi,6.0,Kota,-6.918467,106.926949,active
+"POINT (108.534651 -7.370779)",7.0,0.0,Banjar,7.0,Kota,-7.370779,108.534651,active
+"POINT (108.552316 -6.732023)",8.0,0.0,Cirebon,8.0,Kota,-6.732023,108.552316,active
+"POINT (108.217163 -7.350443)",9.0,0.0,Tasikmalaya,9.0,Kota,-7.350443,108.217163,active
+"POINT (107.603611 -7.044125)",10.0,0.0,Kabupaten Bandung,10.0,Kabupaten,-7.044125,107.603611,active
+"POINT (106.828745 -6.47224)",11.0,0.0,Kabupaten Bogor,11.0,Kabupaten,-6.472240,106.828745,active
+"POINT (107.094373 -6.234985)",12.0,0.0,Kabupaten Bekasi,12.0,Kabupaten,-6.234985,107.094373,active
+"POINT (106.927463 -6.94178)",13.0,0.0,Kabupaten Sukabumi,13.0,Kabupaten,-6.941780,106.927463,active
+"POINT (107.142185 -6.816154)",14.0,0.0,Kabupaten Cianjur,14.0,Kabupaten,-6.816154,107.142185,active
+"POINT (107.9055 -7.202735)",15.0,0.0,Kabupaten Garut,15.0,Kabupaten,-7.202735,107.905500,active
+"POINT (108.227081 -7.36854)",16.0,0.0,Kabupaten Tasikmalaya,16.0,Kabupaten,-7.368540,108.227081,active
+"POINT (108.353772 -7.325322)",17.0,0.0,Kabupaten Ciamis,17.0,Kabupaten,-7.325322,108.353772,active
+"POINT (108.483326 -6.975407)",18.0,0.0,Kabupaten Kuningan,18.0,Kabupaten,-6.975407,108.483326,active
+"POINT (108.227121 -6.836091)",19.0,0.0,Kabupaten Majalengka,19.0,Kabupaten,-6.836091,108.227121,active
+"POINT (107.923511 -6.850854)",20.0,0.0,Kabupaten Sumedang,20.0,Kabupaten,-6.850854,107.923511,active
+"POINT (107.764842 -6.561491)",21.0,0.0,Kabupaten Subang,21.0,Kabupaten,-6.561491,107.764842,active
+"POINT (108.324971 -6.335076)",22.0,0.0,Kabupaten Indramayu,22.0,Kabupaten,-6.335076,108.324971,active
+"POINT (107.446475 -6.540725)",23.0,0.0,Kabupaten Purwakarta,23.0,Kabupaten,-6.540725,107.446475,active
+"POINT (107.337579 -6.323643)",24.0,0.0,Kabupaten Karawang,24.0,Kabupaten,-6.323643,107.337579,active
+"POINT (108.477586 -6.761772)",25.0,0.0,Kabupaten Cirebon,25.0,Kabupaten,-6.761772,108.477586,active
+"POINT (108.498752 -7.607874)",26.0,0.0,Kabupaten Pangandaran,26.0,Kabupaten,-7.607874,108.498752,active

@@ -1,0 +1,7 @@
+WKT,nid,parent_nid,name,serial,type,latitude,longitude,status
+"POINT (106.834091 -6.186486)",1.0,0.0,Jakarta Pusat,1.0,Kota,-6.186486,106.834091,active
+"POINT (106.774124 -6.121435)",2.0,0.0,Jakarta Utara,2.0,Kota,-6.121435,106.774124,active
+"POINT (106.758423 -6.168329)",3.0,0.0,Jakarta Barat,3.0,Kota,-6.168329,106.758423,active
+"POINT (106.81323 -6.266622)",4.0,0.0,Jakarta Selatan,4.0,Kota,-6.266622,106.813230,active
+"POINT (106.900447 -6.225014)",5.0,0.0,Jakarta Timur,5.0,Kota,-6.225014,106.900447,active
+"POINT (106.542262 -5.729016)",6.0,0.0,Kabupaten Kepulauan Seribu,6.0,Kabupaten,-5.729016,106.542262,active
